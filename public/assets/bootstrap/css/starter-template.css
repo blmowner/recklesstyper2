@@ -1,0 +1,53 @@
+body {
+		padding-top: 60px;
+		background-color: #efefef;
+}
+.starter-template {
+		padding: 40px 15px;
+		text-align: center;
+}
+
+.select {
+		cursor: pointer;
+		display: inline-block;
+		position: relative;
+		font-size: 14px;
+		color: $select-color;
+		width: $select-width;
+		height: 30px;
+}
+
+table, th, td {
+	border: none;
+	border-top: none !important;
+	border-bottom: 1pt solid;
+	border-bottom-color:  #e1dcdb;
+}
+
+th {
+		background-color: #e5e5e5;
+		border-bottom: none !important;
+}
+
+.fixed-panel {
+		min-height: 2000;
+}
+
+/*
+.form-group {
+			padding: 0 !important;
+			margin: 0 !important;
+	}
+
+h1 {
+	color: #008a5f;
+}
+input
+{
+		vertical-align:bottom;
+}
+h1 {
+	font-size: 2.0em;
+}
+*/
+
